@@ -2,24 +2,18 @@
   url: "/"
   side: left
 
-#- title: Getting Start
-#  url: "/getting-started/"
-#  side: left
+- title: About
+  url: "/info/"
+  side: left
 
-   #- title: "Page/Post"
-  #  url: "/design/page/"
-  #- title: "Post-Left-Sidebar"
-  #  url: "/design/post-left-sidebar/"
-  #- title: "Post-Right-Sidebar"
-  #  url: "/design/post-right-sidebar/"
-  #- title: "Page Full-Width"
-  #  url: "/design/page-fullwidth/"
-  #- title: "Blog-Page"
-  #  url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
+- title: "Projects"
+  url: "/Projects/"
+  side: left
+  dropdown:
+  - title: "Đất sạch dinh dưỡng better"
+    url: "/Projects/datsach/"
+  - title: "Phân bón"
+    url: "/Projects/phanbon/"
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
@@ -62,3 +56,6 @@
   url: "/search/"
   side: right
 
+- title: "Liên hệ"
+  url: "/contact/"
+  side: right

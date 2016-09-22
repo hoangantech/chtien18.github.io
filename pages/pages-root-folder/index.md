@@ -8,22 +8,22 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Đất sạch dinh dưỡng"
-  url: 'http://rauthuycanhcantho.github.io/sanpham/datsach/'
+  title: "Tổng hợp tài liệu học tập"
+  url: 'http://chtien.xyz/docs'
   image: widget-datsach.jpg
-  text: 'Đất sạch Better là loại giá thể đáp ứng được các yêu cầu của cây trồng và phù hợp với thị hiếu của người tiêu dùng (không mùi, đa dạng, an toàn, bao bì đẹp, giá cả phải chăng…). Đất sạch Better là loại giá thể trồng cây rất hiệu quả. Đất sạch Better chứa cân đối các chất đa lượng, trung lượng, và vi lượng cho từng loại cây trồng.'
+  text: 'Tập hợp tài liệu tự học: lập trình web, lập trình Arduino, Raspberry Pi, công nghệ Internet of Things - IoT'
 
 widget2:
-  title: "Phân bón"
-  url: 'http://rauthuycanhcantho.github.io/sanpham/phanbon/'
+  title: "Mục Sinh viên"
+  url: 'http://chtien.xyz/'
   image: widget-phanbon.png
-  text: 'Cung cấp các loại phân bón hữu cơ, hóa học cho các loại rau, cây ăn trái,...'
+  text: 'Các tin tức liên quan đến học tập, sinh viên,....'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Tinh dầu sả đuổi muỗi"
-  url: 'http://rauthuycanhcantho.github.io/sanpham/tinhdausa/'
+  title: "Có thể bạn quan tâm"
+  url: ''
   image: widget-tinhdausa.jpg
-  text: 'Tinh dầu sả đuổi muỗi có nguồn góc tự nhiên,...'
+  text: ''
   
 #
 # Use the call for action to show a button on the frontpage
@@ -37,7 +37,7 @@ widget3:
 #
 callforaction:
   url: https://tinyletter.com/rauthuycanhcantho
-  text: Click nhận tin mới, khuyến mãi.
+  text: Click nhận tin mới.
   style: alert
 permalink: /index.html
 #
