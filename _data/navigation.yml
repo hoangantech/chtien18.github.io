@@ -6,17 +6,6 @@
 #  url: "/getting-started/"
 #  side: left
 
-- title: "Sản Phẩm"
-  url: "/sanpham/"
-  side: left
-  dropdown:
-  - title: "Đất sạch dinh dưỡng better"
-    url: "/sanpham/datsach/"
-  - title: "Phân bón"
-    url: "/sanpham/phanbon/"
-  - title: "Tinh dầu sả đuổi muỗi"
-    url: "/sanpham/tinhdausa/"
-
    #- title: "Page/Post"
   #  url: "/design/page/"
   #- title: "Post-Left-Sidebar"
@@ -73,6 +62,3 @@
   url: "/search/"
   side: right
 
-- title: "Liên hệ"
-  url: "/contact/"
-  side: right
