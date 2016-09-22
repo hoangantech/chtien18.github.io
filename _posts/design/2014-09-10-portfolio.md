@@ -34,7 +34,6 @@ categories:
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}webdesign_screenshot_schriefer.jpg" alt="">
-        <p>Website: <a href="http://www.psychotherapie-schriefer.de/">Praxis für psychologische Psychotherapie Simone Schriefer</a></p>
+        <p>Website: uyuyuy yu yuyuy uy uy u yuyuy uyu uyuyuyuyuyuyuy u u yuyuyuyuyuuyu uyu yuyu uy u yuyuy u uy uyuyu yu uy u  u uyuyuy uy uyuy uyuuyuy uuyuu yu yuy uy uyu uyuyuyuuy<a href="http://www.psychotherapie-schriefer.de/">Praxis für psychologische Psychotherapie Simone Schriefer</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
-

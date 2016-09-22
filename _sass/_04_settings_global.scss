@@ -785,11 +785,11 @@ $crumb-slash: "/";
 // 16. Labels
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
-// $include-html-label-classes: $include-html-classes;
+//$include-html-label-classes: $include-html-classes;
 
 // We use these to style the labels
 // $label-padding: rem-calc(4 8 4);
-// $label-radius: $global-radius;
+ //$label-radius: $global-radius;
 
 // We use these to style the label text
 // $label-font-sizing: rem-calc(11);
@@ -982,28 +982,28 @@ $panel-bg: $grey-1;
 // 22. Pricing Tables
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
-// $include-html-pricing-classes: $include-html-classes;
+ $include-html-pricing-classes: $include-html-classes;
 
 // We use this to control the border color
-// $price-table-border: solid 1px $gainsboro;
+ //$price-table-border: solid 1px $gainsboro;
 
 // We use this to control the bottom margin of the pricing table
 // $price-table-margin-bottom: rem-calc(20);
 
 // We use these to control the title styles
-// $price-title-bg: $oil;
+ $price-title-bg: $ci-6;
 // $price-title-padding: rem-calc(15 20);
 // $price-title-align: center;
-// $price-title-color: $smoke;
+ $price-title-color: $ci-1;
 // $price-title-weight: $font-weight-normal;
-// $price-title-size: rem-calc(16);
+ $price-title-size: rem-calc(18);
 // $price-title-font-family: $body-font-family;
 
 // We use these to control the price styles
 // $price-money-bg: $vapor  ;
 // $price-money-padding: rem-calc(15 20);
 // $price-money-align: center;
-// $price-money-color: $oil;
+ $price-money-color: $ci-4;
 // $price-money-weight: $font-weight-normal;
 // $price-money-size: rem-calc(32);
 // $price-money-font-family: $body-font-family;
@@ -1012,8 +1012,8 @@ $panel-bg: $grey-1;
 // $price-bg: $white;
 // $price-desc-color: $monsoon;
 // $price-desc-padding: rem-calc(15);
-// $price-desc-align: center;
-// $price-desc-font-size: rem-calc(12);
+ $price-desc-align: left;
+ $price-desc-font-size: rem-calc(14);
 // $price-desc-weight: $font-weight-normal;
 // $price-desc-line-height: 1.4;
 // $price-desc-bottom-border: dotted 1px $gainsboro;
@@ -1021,7 +1021,7 @@ $panel-bg: $grey-1;
 // We use these to control the list item styles
 // $price-item-color: $oil;
 // $price-item-padding: rem-calc(15);
-// $price-item-align: center;
+ $price-item-align: left;
 // $price-item-font-size: rem-calc(14);
 // $price-item-weight: $font-weight-normal;
 // $price-item-bottom-border: dotted 1px $gainsboro;

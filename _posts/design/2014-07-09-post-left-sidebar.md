@@ -9,6 +9,7 @@ tags:
     - post format
 categories:
     - design
+    - huongdan
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
