@@ -7,13 +7,13 @@
   side: left
 
 - title: "Projects"
-  url: "/Projects/"
+  url: "/projects/"
   side: left
   dropdown:
   - title: "Lập trình website Rauthuycanhcantho.com"
     url: "http://rauthuycanhcantho.com"
   - title: "Hệ thống quan trắc dùng trong nông nghiệp"
-    url: "/Projects/agrinode/"
+    url: "/projects/agrinode/"
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 

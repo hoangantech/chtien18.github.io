@@ -5,7 +5,7 @@ title: "Projects"
 subheadline: "Projects"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/Projects/"
+permalink: "/projects/"
 ---
 <ul>
     {% for post in site.categories.Projects %}
