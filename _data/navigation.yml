@@ -10,10 +10,10 @@
   url: "/Projects/"
   side: left
   dropdown:
-  - title: "Đất sạch dinh dưỡng better"
-    url: "/Projects/datsach/"
-  - title: "Phân bón"
-    url: "/Projects/phanbon/"
+  - title: "Lập trình website Rauthuycanhcantho.com"
+    url: "http://rauthuycanhcantho.com"
+  - title: "Hệ thống quan trắc dùng trong nông nghiệp"
+    url: "/Projects/agrinode/"
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
