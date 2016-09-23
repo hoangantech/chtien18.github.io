@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: chtien_paint.jpg
 widget1:
   title: "Tổng hợp tài liệu học tập"
   url: 'http://chtien.xyz/docs'
@@ -20,7 +20,7 @@ widget2:
   text: 'Các tin tức liên quan đến học tập, sinh viên,....'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Có thể bạn quan tâm"
+  title: "Mine"
   url: ''
   image: widget-tinhdausa.jpg
   text: ''
