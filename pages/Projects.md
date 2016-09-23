@@ -1,14 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Sản phẩm"
-subheadline: "Rau thủy canh Cần Thơ"
+title: "Projects"
+subheadline: "Projects"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/sanpham/"
+permalink: "/Projects/"
 ---
 <ul>
-    {% for post in site.categories.sanpham %}
+    {% for post in site.categories.Projects %}
     <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
