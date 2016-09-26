@@ -14,8 +14,10 @@
     url: "http://rauthuycanhcantho.com"
   - title: "Hệ thống quan trắc dùng trong nông nghiệp"
     url: "/projects/agrinode/"
- -title: "Docs"
+    
+ -title: Docs
   url:"/docs/"
+  side: left
   
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
