@@ -6,7 +6,7 @@
   url: "/info/"
   side: left
 
-- title: "Projects"
+- title: Projects
   url: "/projects/"
   side: left
   dropdown:
@@ -16,7 +16,7 @@
     url: "/projects/agrinode/"
     
  - title: Docs
-   url:"/docs/"
+   url: "/docs/"
    side: left
   
 #  - title: "Portfolio"
