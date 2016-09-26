@@ -1,8 +1,8 @@
-- title: "Home"
+- title: Home
   url: "/"
   side: left
-  
-- title: "About"
+
+- title: About
   url: "/info/"
   side: left
 
@@ -10,26 +10,24 @@
   url: "/projects/"
   side: left
   dropdown:
-  - title: "Lập trình website Rauthuycanhcantho.com"
-    url: "http://rauthuycanhcantho.com"
-  - title: "Hệ thống quan trắc dùng trong nông nghiệp"
-    url: "/projects/agrinode/"
-    
- - title: Docs
-   url: "/docs/"
-   side: left
-  
-- title: "Blog"
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+    - title: Website rauthuycanhcantho.com
+    - url: "http://rauthuycanhcantho.com"
 
-- title: "Tìm kiếm"
-  url: "/search/"
+    - title: Hệ thống quan trắc nông nghiệp
+    - url: "/projects/agrinode/"
+
+- title: Docs
+  url: "/docs"
+  side: left
+
+- title: Blog
+  url: "/blog"
+  side: left
+
+- title: Contact
+  url: "/contact"
   side: right
 
-- title: "Liên hệ"
-  url: "/contact/"
+- title: Search
+  url: "/search"
   side: right
