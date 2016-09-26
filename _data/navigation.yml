@@ -1,12 +1,12 @@
-- title: Home
+- title: "Home"
   url: "/"
   side: left
-
-- title: About
+  
+- title: "About"
   url: "/info/"
   side: left
 
-- title: "Projects"
+- title: Projects
   url: "/projects/"
   side: left
   dropdown:
@@ -14,7 +14,11 @@
     url: "http://rauthuycanhcantho.com"
   - title: "Hệ thống quan trắc dùng trong nông nghiệp"
     url: "/projects/agrinode/"
-
+    
+ - title: Docs
+   url: "/docs/"
+   side: left
+  
 - title: "Blog"
   url: "/blog/"
   side: left
