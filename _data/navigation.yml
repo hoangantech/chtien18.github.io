@@ -15,9 +15,9 @@
   - title: "Hệ thống quan trắc dùng trong nông nghiệp"
     url: "/projects/agrinode/"
     
- -title: Docs
-  url:"/docs/"
-  side: left
+ - title: Docs
+   url:"/docs/"
+   side: left
   
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
