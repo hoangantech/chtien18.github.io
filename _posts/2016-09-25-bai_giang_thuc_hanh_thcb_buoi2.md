@@ -4,7 +4,7 @@ title:  "Bài giảng thực hành tin học căn bản buổi 02"
 subheadline:  "tin học căn bản"
 teaser: "Bài giảng thực hành tin học căn bản buổi 02"
 categories: 
-   - tin học căn bản
+   - thcb
 header:
    image_fullwidth: header_unsplash_leaf.jpg
 
