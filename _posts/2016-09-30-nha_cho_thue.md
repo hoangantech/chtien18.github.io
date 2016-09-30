@@ -17,14 +17,22 @@ image: header_unsplash_leaf.jpg
 
 Liên hệ: **chú THẮNG (ĐT: 0903 81 89 87)**
 
-![chothue](../images/2016-09-30.png)
+![chothue](http://www.chtien.xyz/images/2016-09-30.png)
 
-![chothue](../images/chothue (1).jpg)
+![chothue](http://www.chtien.xyz/images/chothue (1).jpg)
 
-![chothue](../images/chothue (2).jpg)
+![chothue](http://www.chtien.xyz/images/chothue (2).jpg)
 
-![chothue](../images/chothue (3).jpg)
+![chothue](http://www.chtien.xyz/images/chothue (3).jpg)
 
-![chothue](../images/chothue (4).jpg)
+![chothue](http://www.chtien.xyz/images/chothue (4).jpg)
 
+![chothue](http://www.chtien.xyz/images/chothue (5).jpg)
 
+![chothue](http://www.chtien.xyz/images/chothue (6).jpg)
+
+![chothue](http://www.chtien.xyz/images/chothue (7).jpg)
+
+![chothue](http://www.chtien.xyz/images/chothue (8).jpg)
+
+![chothue](http://www.chtien.xyz/images/chothue (9).jpg)
