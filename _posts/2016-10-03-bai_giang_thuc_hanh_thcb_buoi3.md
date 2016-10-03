@@ -20,5 +20,7 @@ image: header_unsplash_leaf.jpg
 
 
 <div class="row t30">
-<iframe src="http://www.slideshare.net/tiencao71/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+   <div class="flex-video">
+      <iframe src="http://www.slideshare.net/tiencao71/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+   </div>
 </div>
