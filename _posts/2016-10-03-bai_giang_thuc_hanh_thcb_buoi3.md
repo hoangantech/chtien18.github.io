@@ -16,3 +16,5 @@ image: header_unsplash_leaf.jpg
 <div class="flex-video">
 <iframe src="http://www.slideshare.net/tiencao71/slideshelf" width="390px" height="370px" frameborder="0" marginwidth="0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<iframe src="http://www.slideshare.net/tiencao71/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
