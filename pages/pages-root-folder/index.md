@@ -36,7 +36,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/rauthuycanhcantho
+  url: https://tinyletter.com/chtien18
   text: Click nhận tin mới.
   style: alert
 permalink: /index.html
