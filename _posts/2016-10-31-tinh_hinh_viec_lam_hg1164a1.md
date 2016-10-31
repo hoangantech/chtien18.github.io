@@ -16,7 +16,4 @@ image: header_unsplash_leaf.jpg
 ### Mọi thông tin bạn gửi sẽ được bảo mật!  
 
 `-- Cao Hoàng Tiến---`
-
-<script>(function(t,e,n,c){var o,s,i;t.SMCX=t.SMCX||[],e.getElementById(c)||(o=e.getElementsByTagName(n),s=o[o.length-1],i=e.createElement(n),i.type="text/javascript",i.async=!0,i.id=c,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/rQOH3Rnbnfph3THdPC1WnIZAQ5uwwwGnpKpngibP0g1iQ525uuZ7cW2SyuKTWDDK.js"].join(""),s.parentNode.insertBefore(i,s))})(window,document,"script","smcx-sdk");</script>
-
-<a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com/mp/customer-satisfaction-surveys/> Create your own user feedback survey </a>
+<script>(function(t,e,n,c){var o,s,i;t.SMCX=t.SMCX||[],e.getElementById(c)||(o=e.getElementsByTagName(n),s=o[o.length-1],i=e.createElement(n),i.type="text/javascript",i.async=!0,i.id=c,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/rQOH3Rnbnfph3THdPC1WnIZAQ5uwwwGnpKpngibP0g1iQ525uuZ7cW2SyuKTWDDK.js"].join(""),s.parentNode.insertBefore(i,s))})(window,document,"script","smcx-sdk");</script><a style="font: 12px Helvetica, sans-serif; color: #999; text-decoration: none;" href=https://www.surveymonkey.com/mp/customer-satisfaction-surveys/> Create your own user feedback survey </a>
