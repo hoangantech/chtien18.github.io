@@ -2,7 +2,9 @@
 layout: page-fullwidth
 title:  "Tình hình việc làm sau 1 năm lớp hg1164a1"
 subheadline:  "Thu thập tình hình việc làm sau 1 năm - lớp Luật thương mại"
-teaser: "Gửi đến các bạn lớp luật thương mại K37. Nhằm hỗ trợ truong Đại học Cần Thơ, thống kê tình hình việc làm của sinh viên sau khi tôt nghiệp. Xin gửi đến các bạn bản khảo sát gồm 6 câu hỏi, mất khoảng 1 phút để trả lời."
+teaser: "Gửi đến các bạn lớp luật thương mại K37. Nhằm hỗ trợ truong Đại học Cần Thơ, thống kê tình hình việc làm của sinh viên sau khi tôt nghiệp. Xin gửi đến các bạn bản khảo sát gồm 6 câu hỏi, mất khoảng 1 phút để trả lời. 
+
+Mọi thông tin bạn gửi sẽ được bảo mật  -- Cao Hoàng Tiến---"
 categories: 
    - thcb
 header:
