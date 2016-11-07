@@ -16,3 +16,5 @@ image: header_unsplash_leaf.jpg
 <div class="flex-video">
 <iframe src="http://www.slideshare.net/tiencao71/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Tham khảo trắc nghiệm: [download](https://drive.google.com/drive/folders/0B4K8lkHvBK58c3c0QTFiUk9UdUE?usp=sharing)
