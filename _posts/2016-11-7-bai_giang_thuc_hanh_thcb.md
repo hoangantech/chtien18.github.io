@@ -12,6 +12,8 @@ image: header_unsplash_leaf.jpg
 ---
 ## Tham khảo trắc nghiệm: [download](https://drive.google.com/drive/folders/0B4K8lkHvBK58c3c0QTFiUk9UdUE?usp=sharing)
 
+## Bài giảng: [Download](https://drive.google.com/file/d/0B4K8lkHvBK58M2tWSXUtcldrVXc/view?usp=sharing)
+
 ## Bài giảng thực hành tin học căn bản buổi 02
 
 <div class="flex-video">
