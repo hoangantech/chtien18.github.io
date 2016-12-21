@@ -9,13 +9,13 @@ header:
   image_fullwidth: chtien_paint.jpg
 widget1:
   title: "Tổng hợp tài liệu học tập"
-  url: 'http://chtien18.github.io/docs'
+  url: 'https://chtien18.github.io/docs'
   image: widget-datsach.jpg
   text: 'Tập hợp tài liệu tự học: lập trình web, lập trình Arduino, Raspberry Pi, công nghệ Internet of Things - IoT'
 
 widget2:
   title: "Mục Sinh viên"
-  url: 'http://http://chtien18.github.io/'
+  url: 'https://chtien18.github.io/'
   image: widget-phanbon.jpg
   text: 'Các tin tức liên quan đến học tập, sinh viên,....'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
