@@ -15,7 +15,7 @@ widget1:
 
 widget2:
   title: "Mục Sinh viên"
-  url: 'https://chtien18.github.io/'
+  url: 'https://chtien18.github.io/sinhvien/'
   image: widget-phanbon.jpg
   text: 'Các tin tức liên quan đến học tập, sinh viên,....'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
