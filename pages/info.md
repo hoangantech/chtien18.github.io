@@ -15,7 +15,10 @@ My name is Tien Cao-hoang ("Cao Hoàng Tiến" in Vietnammese)
 
 * [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
 
-Yours sincerelly,
+## Research activities
+
+## Publications
+
 
 
  [1]: http://orcid.org/0000-0001-9863-2716
