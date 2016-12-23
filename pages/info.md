@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "About me"
+subheadline: ""
+teaser: ""
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
@@ -12,11 +12,10 @@ header:
 
 My name is Tien Cao-hoang ("Cao Hoàng Tiến" in Vietnammese)
 
-![My ORCID QR code](http://www.chtien.xyz/images/chtien_orcid_qrcode.png)
 
-* [ORCID][1]
+* [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
 
-Yours sincerelly, [Moritz »mo.« Sauer][7]
+Yours sincerelly,
 
 
  [1]: http://orcid.org/0000-0001-9863-2716
