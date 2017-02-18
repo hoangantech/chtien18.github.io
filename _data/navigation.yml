@@ -9,19 +9,13 @@
 - title: Projects
   url: "/projects/"
   side: left
-  dropdown:
-    - title: Website rauthuycanhcantho.com
-    - url: "http://rauthuycanhcantho.com"
-
-    - title: Hệ thống quan trắc nông nghiệp
-    - url: "/projects/agrinode/"
 
 - title: Docs
   url: "/docs"
   side: left
 
 - title: Blog
-  url: "/blog"
+  url: "https://chtien18.blogspot.com"
   side: left
 
 - title: Contact
