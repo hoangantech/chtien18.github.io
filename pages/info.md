@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: "About"
 subheadline: ""
 teaser: ""
 permalink: "/info/"
@@ -10,12 +10,26 @@ header:
 
 ## Biography
 
-My name is Tien Cao-hoang ("Cao Hoàng Tiến" in Vietnammese)
+* Full name: Cao Hoàng Tiến (Tien Cao-hoang)
 
+* Affiliation: Tien Cao-hoang is lecturer at [the Can Tho University](http://ctu.edu.vn/en)
 
 * [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
 
+* Curriculum:
+Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh city,Vietnam
+
 ## Research activities
+
+## Conferences
+
+### 2017
+
+### 2016
+
+### 2015
+
+* 
 
 ## Publications
 
