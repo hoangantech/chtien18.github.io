@@ -17,6 +17,7 @@ header:
 * [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
 
 * Curriculum:
+
 Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, Ho Chi Minh City University of Technology, Ho Chi Minh city,Vietnam
 
 ## Research activities
@@ -25,11 +26,15 @@ Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in Fe
 
 ### 2017
 
+[The Seventh International Conference on Information Science and Technology (ICIST 2017)](https://conference.cs.cityu.edu.hk/icist/)
+
 ### 2016
 
-### 2015
+[The 5th International Workshop on Climatic Changes and Evaluation of Their Effects on Agriculture in Asian Monsoon Region](http://agrid.diasjp.net/grene/files/Abstracts%20of%205th%20GRENE-ei%20workshop.pdf) 
 
-* 
+### 2015
+ [The 4th International Workshop on Climatic Changes and Evaluation of Their Effects on Agriculture in Asian Monsoon Region](http://agrid.diasjp.net/grene/index.html%3Fpage_id=136.html)
+ 
 
 ## Publications
 
