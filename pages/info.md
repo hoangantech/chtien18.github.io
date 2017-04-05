@@ -22,23 +22,23 @@ Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in Fe
 
 ## Research activities
 
-## Conferences
+## Publications
 
-### 2017
+### Conferences
+
+* 2017
 
 [The Seventh International Conference on Information Science and Technology (ICIST 2017)](https://conference.cs.cityu.edu.hk/icist/)
 
-### 2016
+* 2016
 
 [The 5th International Workshop on Climatic Changes and Evaluation of Their Effects on Agriculture in Asian Monsoon Region](http://agrid.diasjp.net/grene/files/Abstracts%20of%205th%20GRENE-ei%20workshop.pdf) 
 
-### 2015
+* 2015
+
  [The 4th International Workshop on Climatic Changes and Evaluation of Their Effects on Agriculture in Asian Monsoon Region](http://agrid.diasjp.net/grene/index.html%3Fpage_id=136.html)
  
-
-## Publications
-
-
+ Hội thảo toàn quốc về CNTT & Truyền thông năm 2015
 
  [1]: http://orcid.org/0000-0001-9863-2716
  [2]: http://mademistakes.com/work/jekyll-themes/
