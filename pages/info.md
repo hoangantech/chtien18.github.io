@@ -26,7 +26,7 @@ Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in Fe
 
 * Conferences
 
-[Tien Cao-Hoang, Can Nguyen Duy, "Environment monitoring system for agriculture application based on wireless sensor network", 7th International Conference on Information Science and Technology (ICIST 2017), Da Nang, Vietnam, 2017, pp. ](https://conference.cs.cityu.edu.hk/icist/)
+[Tien Cao-Hoang, Can Nguyen Duy, "Environment monitoring system for agriculture application based on wireless sensor network", 7th International Conference on Information Science and Technology (ICIST 2017), Da Nang, Vietnam, 2017, pp. ](https://doi.org/10.1109/ICIST.2017.7926499)
 
 [Tien Cao-Hoang, "Low-cost water level monitoring system for paddy field", The 5th International Workshop on Climatic Changes and Evaluation of Their Effects on Agriculture in Asian Monsoon Region, Fukushima, Japan, 2016](http://agrid.diasjp.net/grene/files/Abstracts%20of%205th%20GRENE-ei%20workshop.pdf) 
 
