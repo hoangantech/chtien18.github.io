@@ -22,6 +22,13 @@ Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in Fe
 
 ## Research activities
 
+* Interest: Working on developing an Internet of Things - IoT solution for industry, agriculture.
+
+* Projects: 
+
+[AgriNode](https://agrinode.github.io) (Agricultural Wireless Sensor Network) is the first project that I paticipated in Open IoT Challenge and recieved [a special acknowledgement](https://www.eclipse.org/org/press-release/openiotchallenge3_winners.php) from [Eclipse IoT Foudation](https://eclipse.org/iot).
+
+
 ## Publications
 
 * Conferences
