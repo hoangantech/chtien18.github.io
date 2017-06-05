@@ -12,19 +12,16 @@ header:
 
 * Full name: Cao Hoàng Tiến (Tien Cao-hoang)
 
-* Affiliation: Tien Cao-hoang is lecturer at [the Can Tho University](http://ctu.edu.vn/en)
+* Affiliation: Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
 * [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
 
 * Curriculum:
 
-Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam
+Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
 
-## Research activities
 
-* Interest: Working on developing an Internet of Things - IoT solution for industry, agriculture.
-
-* Projects: 
+## Projects: 
 
 [AgriNode](https://agrinode.github.io) (Agricultural Wireless Sensor Network) is the first project that I paticipated in Open IoT Challenge and recieved [a special acknowledgement](https://www.eclipse.org/org/press-release/openiotchallenge3_winners.php) from [Eclipse IoT Foudation](https://eclipse.org/iot).
 
