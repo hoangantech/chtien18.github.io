@@ -15,7 +15,7 @@ widget1:
 
 widget2:
   title: "Learn"
-  url: 'https://chtien18.github.io/sinhvien/'
+  url: 'https://chtien18.github.io/learn/'
   image: widget-phanbon.jpg
   text: ''
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
