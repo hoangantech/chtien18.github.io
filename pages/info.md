@@ -16,6 +16,8 @@ header:
 
 * [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
 
+<span id='badgeCont896836' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont896836&mashlet=badge&showTitle=false&className=a&rid=M-3147-2017'></script></span>
+
 * Curriculum:
 
 Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
