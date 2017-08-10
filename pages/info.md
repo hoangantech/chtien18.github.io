@@ -12,11 +12,18 @@ header:
 
 * Full name: Cao Hoàng Tiến (Tien Cao-hoang)
 
+* Social:
+
 * Affiliation: Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
-* [![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
+* ID
 
-<span id='badgeCont896836' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont896836&mashlet=badge&showTitle=false&className=a&rid=M-3147-2017'></script></span>
+[![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
+
+[![researcherid](http://images.webofknowledge.com/WOKRS524B5/images/RID/rid_logo.gif)]
+(http://www.researcherid.com/rid/M-3147-2017)
+
+[![scopus](https://www.scopus.com/static/images/preview/scopuspreviewOrange.svg)](https://www.scopus.com/authid/detail.uri?authorId=57194439094)
 
 * Curriculum:
 
