@@ -18,12 +18,11 @@ header:
 
 * ID
 
-[![ORCID](http://orcid.org/sites/all/themes/orcidResponsiveNoto/img/orcid-logo.png)](http://orcid.org/0000-0001-9863-2716)
+![ORCID](http://orcid.org/0000-0001-9863-2716)
 
-[![researcherid](http://images.webofknowledge.com/WOKRS524B5/images/RID/rid_logo.gif)]
-(http://www.researcherid.com/rid/M-3147-2017)
+![Researcher ID](http://www.researcherid.com/rid/M-3147-2017)
 
-[![scopus](https://www.scopus.com/static/images/preview/scopuspreviewOrange.svg)](https://www.scopus.com/authid/detail.uri?authorId=57194439094)
+![scopus review](https://www.scopus.com/authid/detail.uri?authorId=57194439094)
 
 * Curriculum:
 
