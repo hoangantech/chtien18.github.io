@@ -15,7 +15,7 @@ image: header_unsplash_leaf.jpg
 
 Địa chỉ: 96/48B đường Nguyễn Thần Hiến (đường Lý Tự Trọng cũ), phường An Cư, quận Ninh Kiều, TP Cần Thơ. (gần bờ hồ Xáng Thổi)
 
-Liên hệ: **chú THẮNG (ĐT: 0903 81 89 87)**
+Liên hệ:
 
 * Vị trí
 
