@@ -29,9 +29,9 @@ Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in Fe
 
 [AgriNode](https://agrinode.github.io) (Agricultural Wireless Sensor Network) is the first project that I paticipated in Open IoT Challenge and recieved [a special acknowledgement](https://www.eclipse.org/org/press-release/openiotchallenge3_winners.php) from [Eclipse IoT Foudation](https://eclipse.org/iot).
 
-## Prize
+## Award
 
-Win the third prize at The 6th Science and Technology Forum (the project: Monitoring and Controlling system Used in Agriculture)
+The 3rd prize at The 6th Science and Technology Forum (the project: Monitoring and Controlling system Used in Agriculture)
 
 ## Publications
 
