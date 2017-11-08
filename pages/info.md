@@ -35,6 +35,8 @@ The 3rd prize at The 6th Science and Technology Forum (the project: Monitoring a
 
 ## Publications
 
+Cao Hoàng Tiến, Sử Kim Anh, Nguyễn Duy Cần,"Hệ thống giám sát và điều khiển, ứng dụng trong nhà kính", Kỷ yếu Hội thảo toàn quốc về công nghệ thông tin và truyền thông, Cần Thơ, Vietnam, 2017, pp. 16-26 [PDF](https://www.researchgate.net/profile/Tien_Cao-Hoang/publication/320908515_He_thong_giam_sat_va_dieu_khien_ung_dung_trong_nha_kinh/links/5a01d23eaca272e53ebdece3/He-thong-giam-sat-va-dieu-khien-ung-dung-trong-nha-kinh.pdf?_iepl%5BhomeFeedViewId%5D=RuaJqiCzBoupV1fpCOsBHG5ATFFHY1SS294B&_iepl%5Bcontexts%5D%5B0%5D=pcfhf&_iepl%5BinteractionType%5D=publicationDownload&origin=publication_detail&ev=pub_int_prw_xdl&msrp=YqtCc8l-piNiMKFxwDWRldGRv_bGXkZN-zc3SBNiEDFU_tlOVAuIzdl4a_fASkLVmi01hm24E_JeEN9V7ocJEXg77Tb_KOsjwGAYyneLffvdtOGewEgHFvc0.PBdujUaugsLliB5GTS6XSSlFB6DjajrAgsSGs9QoyueQqydoot9mXj4SfT866tW4cmu2FbU3vyfu2u-Ip9Ww46c1AD1EPfRhvNTJQw.BHbrX-t1OH436y0_ZxgjniGpl2M3WJ_BsewiekSFwVaeJabsdUhxpFacgexPnU67DZwVD1I0ssXXUnvi1RZWSmC2lEmK3gB5Sn2tsw.01KpXKGJjCxDbtwO0O82LE7q8eaVwu9RGTROB9MxJM_fmI5xn7MNCjrdEEIP06lzx7Mj88hYoc6mlhJqndOvJhsLTQbNrcbrW_FZfg)
+
 Tien Cao-Hoang, Can Nguyen Duy, "Environment monitoring system for agriculture application based on wireless sensor network", 7th International Conference on Information Science and Technology (ICIST 2017), Da Nang, Vietnam, 2017, pp. 99-102. [(Link..)](https://doi.org/10.1109/ICIST.2017.7926499)
 
 Tien Cao-Hoang, "Low-cost water level monitoring system for paddy field", The 5th International Workshop on Climatic Changes and Evaluation of Their Effects on Agriculture in Asian Monsoon Region, Fukushima, Japan, 2016. [(PDF)](http://agrid.diasjp.net/grene/files/Abstracts%20of%205th%20GRENE-ei%20workshop.pdf) 
