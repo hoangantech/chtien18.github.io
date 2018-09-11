@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  " Khảo sát việc làm sinh viên năm 2018"
 subheadline:  " "
-teaser: " blogs"
+teaser: ""
 categories: 
    - blogs
 header:
