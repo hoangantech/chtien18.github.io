@@ -17,7 +17,7 @@ header:
 **Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
 **Research ID:**  [ORCID](http://orcid.org/0000-0001-9863-2716), 
-[Researcher ID](http://www.researcherid.com/rid/M-3147-2017), 
+[Researcher ID](https://publons.com/researcher/M-3108-2019/), 
 [Scopus review](https://www.scopus.com/authid/detail.uri?authorId=57194439094)
 
 **Curriculum:**
