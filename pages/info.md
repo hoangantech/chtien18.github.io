@@ -9,9 +9,9 @@ header:
 ---
 <style>
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  padding: 10px;
+  font-size: 20px;
+  width: 40px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
@@ -132,6 +132,8 @@ header:
 **Full name:** Cao Hoàng Tiến (Tien Cao-hoang)
 
 **Social:**  <a href="https://facebook.com/tien.cao.71" class="fa fa-facebook"></a>
+<a href="https://twitter.com/chtien18" class="fa fa-twitter"></a>
+<a href="https://www.linkedin.com/in/chtien/" class="fa fa-linkedin"></a>
 
 **Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
