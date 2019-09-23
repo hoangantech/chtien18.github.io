@@ -12,7 +12,7 @@ header:
 
 **Full name:** Cao Hoàng Tiến (Tien Cao-hoang)
 
-**Social:**
+**Social:**  <a href="https://facebook.com/tien.cao.71" class="fa fa-facebook"></a>
 
 **Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
