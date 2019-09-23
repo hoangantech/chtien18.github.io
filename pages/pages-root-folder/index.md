@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: chtien_paint.jpg
+  image_fullwidth: cropped-samurai.jpg
 widget1:
   title: "Documentation"
   url: 'https://chtien18.github.io/docs'
@@ -36,8 +36,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/chtien18
-  text: Subscribe.
+  url: https://eitalab.com/category/khoa-hoc/
+  text: Read more.
   style: alert
 permalink: /index.html
 #
