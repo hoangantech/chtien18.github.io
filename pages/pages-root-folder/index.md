@@ -17,7 +17,7 @@ widget2:
   title: "Learn"
   url: 'https://chtien18.github.io/learn/'
   image: widget-phanbon.jpg
-  text: ''
+  text: '<a href="https://github.com/chtien18/chtien18.github.io">Tin học căn bản</a>'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Family"
