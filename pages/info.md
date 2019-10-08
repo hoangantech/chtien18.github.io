@@ -134,7 +134,7 @@ header:
 **Social:**  <a href="https://facebook.com/tien.cao.71" class="fa fa-facebook"></a>
 <a href="https://twitter.com/chtien18" class="fa fa-twitter"></a>
 <a href="https://www.linkedin.com/in/chtien/" class="fa fa-linkedin"></a>
-
+<a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
 **Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
 **Research ID:**  [ORCID](http://orcid.org/0000-0001-9863-2716), 
