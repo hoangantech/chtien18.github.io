@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 <style>
-.fa {
+.fa .fab {
   padding: 10px;
   font-size: 20px;
   width: 40px;
@@ -17,10 +17,13 @@ header:
   margin: 5px 2px;
 }
 
-.fa:hover {
+.fa:hover .fab:hover {
     opacity: 0.7;
 }
-
+.fa-github {
+ background: #0000;
+  color: white;
+}
 .fa-facebook {
   background: #3B5998;
   color: white;
@@ -126,6 +129,7 @@ header:
   background: #ff6600;
   color: white;
 }
+
 </style>
 ## Biography
 
@@ -135,6 +139,7 @@ header:
 <a href="https://twitter.com/chtien18" class="fa fa-twitter"></a>
 <a href="https://www.linkedin.com/in/chtien/" class="fa fa-linkedin"></a>
 <a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
+
 **Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
 
 **Research ID:**  [ORCID](http://orcid.org/0000-0001-9863-2716), 
